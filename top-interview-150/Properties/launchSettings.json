@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "top-interview-150": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
