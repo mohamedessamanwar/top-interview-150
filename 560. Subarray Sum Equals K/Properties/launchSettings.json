@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "560. Subarray Sum Equals K": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

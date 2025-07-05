@@ -16,9 +16,8 @@
                     sum -= nums[l];
                     l++;
                 }
-              //  min = Math.Min(min, r-l+1);
             }
-            if(min == int.MaxValue)return 0;
+            if(min == int.MaxValue) return 0;
             return min;
         }
         static void Main(string[] args)

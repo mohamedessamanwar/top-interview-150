@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top-interview-150", "top-in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "209. Minimum Size Subarray Sum", "209. Minimum Size Subarray Sum\209. Minimum Size Subarray Sum.csproj", "{248D0919-62EB-46FE-8BFA-4B2043BD4652}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "560. Subarray Sum Equals K", "560. Subarray Sum Equals K\560. Subarray Sum Equals K.csproj", "{A5B8F660-0176-4A88-BA77-80C4EAC67AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{692C749B-B131-497D-95E1-32282CEDEBAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{248D0919-62EB-46FE-8BFA-4B2043BD4652}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{248D0919-62EB-46FE-8BFA-4B2043BD4652}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{248D0919-62EB-46FE-8BFA-4B2043BD4652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B8F660-0176-4A88-BA77-80C4EAC67AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B8F660-0176-4A88-BA77-80C4EAC67AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B8F660-0176-4A88-BA77-80C4EAC67AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B8F660-0176-4A88-BA77-80C4EAC67AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692C749B-B131-497D-95E1-32282CEDEBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692C749B-B131-497D-95E1-32282CEDEBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692C749B-B131-497D-95E1-32282CEDEBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692C749B-B131-497D-95E1-32282CEDEBAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

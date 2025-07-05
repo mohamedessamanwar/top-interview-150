@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "3. Longest Substring Without Repeating Characters": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
