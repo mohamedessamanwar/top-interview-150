@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "560. Subarray Sum Equals K"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{692C749B-B131-497D-95E1-32282CEDEBAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{E66E866C-D147-4B76-8D31-C9A738C9357A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "128. Longest Consecutive Sequence", "128. Longest Consecutive Sequence\128. Longest Consecutive Sequence.csproj", "{B9BDE917-181B-4AB9-BCEF-786B4D28A155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49. Group Anagrams", "49. Group Anagrams\49. Group Anagrams.csproj", "{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{692C749B-B131-497D-95E1-32282CEDEBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{692C749B-B131-497D-95E1-32282CEDEBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{692C749B-B131-497D-95E1-32282CEDEBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66E866C-D147-4B76-8D31-C9A738C9357A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66E866C-D147-4B76-8D31-C9A738C9357A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66E866C-D147-4B76-8D31-C9A738C9357A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66E866C-D147-4B76-8D31-C9A738C9357A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BDE917-181B-4AB9-BCEF-786B4D28A155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BDE917-181B-4AB9-BCEF-786B4D28A155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BDE917-181B-4AB9-BCEF-786B4D28A155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BDE917-181B-4AB9-BCEF-786B4D28A155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

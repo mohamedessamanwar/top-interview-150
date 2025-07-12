@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "27. Remove Element": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
