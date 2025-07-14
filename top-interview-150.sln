@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "128. Longest Consecutive Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49. Group Anagrams", "49. Group Anagrams\49. Group Anagrams.csproj", "{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80. Remove Duplicates from Sorted Array II", "80. Remove Duplicates from Sorted Array II\80. Remove Duplicates from Sorted Array II.csproj", "{B3A58AEB-0375-41CB-9951-CC203F7288AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEE1F1C7-A834-4807-8EAF-79FA503E32A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A58AEB-0375-41CB-9951-CC203F7288AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A58AEB-0375-41CB-9951-CC203F7288AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A58AEB-0375-41CB-9951-CC203F7288AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A58AEB-0375-41CB-9951-CC203F7288AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
