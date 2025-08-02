@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121. Best Time to Buy and S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{F0C07BF0-6D3A-4047-A7B2-F51DC782A5B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55. Jump Game", "55. Jump Game\55. Jump Game.csproj", "{CA8AFAD8-13CC-498E-903E-1415F54F47B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F0C07BF0-6D3A-4047-A7B2-F51DC782A5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0C07BF0-6D3A-4047-A7B2-F51DC782A5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0C07BF0-6D3A-4047-A7B2-F51DC782A5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8AFAD8-13CC-498E-903E-1415F54F47B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8AFAD8-13CC-498E-903E-1415F54F47B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8AFAD8-13CC-498E-903E-1415F54F47B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8AFAD8-13CC-498E-903E-1415F54F47B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
