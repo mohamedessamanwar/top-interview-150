@@ -8,16 +8,17 @@
             return CanJumpHelper(nums, 0, memo);
         }
 
+
         private bool CanJumpHelper(int[] nums, int index, Dictionary<int, bool> memo)
         {
             // Base case: reached or exceeded the last index
             if (index >= nums.Length - 1)
                 return true;
-            
+
             // Check memoization
             if (memo.ContainsKey(index))
                 return memo[index];
-            
+
             // Try all possible jumps from current position
             for (int jump = 1; jump <= nums[index]; jump++)
             {
@@ -27,7 +28,7 @@
                     return true;
                 }
             }
-            
+
             // No valid path found from this position
             memo[index] = false;
             return false;
