@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "236. Lowest Common Ancestor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "129. Sum Root to Leaf Numbers", "129. Sum Root to Leaf Numbers\129. Sum Root to Leaf Numbers.csproj", "{2C59671E-340C-434D-8717-C83356849FBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "114. Flatten Binary Tree to Linked List", "114. Flatten Binary Tree to Linked List\114. Flatten Binary Tree to Linked List.csproj", "{3B65195D-0C3C-41BA-BCD8-80491D25A329}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{2C59671E-340C-434D-8717-C83356849FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C59671E-340C-434D-8717-C83356849FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C59671E-340C-434D-8717-C83356849FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B65195D-0C3C-41BA-BCD8-80491D25A329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B65195D-0C3C-41BA-BCD8-80491D25A329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B65195D-0C3C-41BA-BCD8-80491D25A329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B65195D-0C3C-41BA-BCD8-80491D25A329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
