@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "114. Flatten Binary Tree to
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1004. Max Consecutive Ones III", "1004. Max Consecutive Ones III\1004. Max Consecutive Ones III.csproj", "{035B7D08-EE44-4588-AE59-B7CBD2829989}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1448. Count Good Nodes in Binary Tree", "1448. Count Good Nodes in Binary Tree\1448. Count Good Nodes in Binary Tree.csproj", "{815D701F-C205-43C2-A5AD-A7FD2398E04D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{035B7D08-EE44-4588-AE59-B7CBD2829989}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{035B7D08-EE44-4588-AE59-B7CBD2829989}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{035B7D08-EE44-4588-AE59-B7CBD2829989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815D701F-C205-43C2-A5AD-A7FD2398E04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815D701F-C205-43C2-A5AD-A7FD2398E04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815D701F-C205-43C2-A5AD-A7FD2398E04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815D701F-C205-43C2-A5AD-A7FD2398E04D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
