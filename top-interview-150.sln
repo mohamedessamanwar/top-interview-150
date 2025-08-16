@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1004. Max Consecutive Ones 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1448. Count Good Nodes in Binary Tree", "1448. Count Good Nodes in Binary Tree\1448. Count Good Nodes in Binary Tree.csproj", "{815D701F-C205-43C2-A5AD-A7FD2398E04D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2300. Successful Pairs of Spells and Potions", "2300. Successful Pairs of Spells and Potions\2300. Successful Pairs of Spells and Potions.csproj", "{C8772F14-6294-4490-A818-782712B10F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "162. Find Peak Element", "162. Find Peak Element\162. Find Peak Element.csproj", "{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{815D701F-C205-43C2-A5AD-A7FD2398E04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{815D701F-C205-43C2-A5AD-A7FD2398E04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{815D701F-C205-43C2-A5AD-A7FD2398E04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8772F14-6294-4490-A818-782712B10F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8772F14-6294-4490-A818-782712B10F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8772F14-6294-4490-A818-782712B10F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8772F14-6294-4490-A818-782712B10F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
