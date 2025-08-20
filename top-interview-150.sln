@@ -59,6 +59,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2300. Successful Pairs of S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "162. Find Peak Element", "162. Find Peak Element\162. Find Peak Element.csproj", "{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "138. Copy List with Random Pointer", "138. Copy List with Random Pointer\138. Copy List with Random Pointer.csproj", "{714A8242-AC09-438B-87C2-1FCE3C06491A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "117. Populating Next Right Pointers in Each Node IIv", "117. Populating Next Right Pointers in Each Node IIv\117. Populating Next Right Pointers in Each Node IIv.csproj", "{E393ACC1-934F-480C-9547-BEA79C031F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +181,14 @@ Global
 		{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD9CE763-99A3-4FC4-95F5-9CDC78A885F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714A8242-AC09-438B-87C2-1FCE3C06491A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714A8242-AC09-438B-87C2-1FCE3C06491A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714A8242-AC09-438B-87C2-1FCE3C06491A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714A8242-AC09-438B-87C2-1FCE3C06491A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E393ACC1-934F-480C-9547-BEA79C031F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E393ACC1-934F-480C-9547-BEA79C031F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E393ACC1-934F-480C-9547-BEA79C031F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E393ACC1-934F-480C-9547-BEA79C031F2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
