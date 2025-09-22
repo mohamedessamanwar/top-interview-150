@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "733. Flood Fill": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
