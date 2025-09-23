@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "733. Flood Fill", "733. Flo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Connected Components in an Undirected Graph", "Number of Connected Components in an Undirected Graph\Number of Connected Components in an Undirected Graph.csproj", "{5D09DDCF-DC84-48C7-B334-F3E5A2D9674B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "200. Number of Islands", "200. Number of Islands\200. Number of Islands.csproj", "{7BFB65DD-8BAF-4B93-99EC-667F5890717D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{5D09DDCF-DC84-48C7-B334-F3E5A2D9674B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D09DDCF-DC84-48C7-B334-F3E5A2D9674B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D09DDCF-DC84-48C7-B334-F3E5A2D9674B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFB65DD-8BAF-4B93-99EC-667F5890717D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFB65DD-8BAF-4B93-99EC-667F5890717D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFB65DD-8BAF-4B93-99EC-667F5890717D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFB65DD-8BAF-4B93-99EC-667F5890717D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
