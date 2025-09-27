@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Connected Compone
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "200. Number of Islands", "200. Number of Islands\200. Number of Islands.csproj", "{7BFB65DD-8BAF-4B93-99EC-667F5890717D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1254. Number of Closed Islands", "1254. Number of Closed Islands\1254. Number of Closed Islands.csproj", "{A98D424C-424D-4CD8-9425-A567CDCAEBE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{7BFB65DD-8BAF-4B93-99EC-667F5890717D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BFB65DD-8BAF-4B93-99EC-667F5890717D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BFB65DD-8BAF-4B93-99EC-667F5890717D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98D424C-424D-4CD8-9425-A567CDCAEBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98D424C-424D-4CD8-9425-A567CDCAEBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98D424C-424D-4CD8-9425-A567CDCAEBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98D424C-424D-4CD8-9425-A567CDCAEBE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
